@@ -17,3 +17,4 @@ __I use this 7-segment display__:<http://www.robot-italy.com/it/7-segment-displa
     1 x 100uF capacitor
     1 x 10uF capacitor
     1 x any silicon diode
+    1 x 9-volt battry
