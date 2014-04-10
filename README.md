@@ -3,10 +3,11 @@ Oclock
 
 OClock is a simple Arduino project. a clock with 7-segment display an atmega 168/328 and 2 buttons and 6 resistors.
 
+__I use this 7-segment display__:<http://www.robot-italy.com/it/7-segment-display-4-digit-white-single-header.html>
 
 ###List of components:
     1 x atmega-168/328
-    1 x 7-segment 4 digit 
+    1 x 7-segment 4 digit
     4 x 220omh resistor 
     2 x 10Komh resistor
     2 x pushbutton
