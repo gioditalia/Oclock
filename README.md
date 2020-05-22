@@ -5,7 +5,7 @@ OClock is a simple Arduino project. a clock with 7-segment display an atmega 168
 
 __I use this 7-segment display__:<http://www.robot-italy.com/it/7-segment-display-4-digit-white-single-header.html>
 __datasheet__:<http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Components/LED/ATA3491BW.pdf>
-###List of components:
+### List of components:
     1 x atmega-168/328
     1 x 7-segment 4 digit
     4 x 220omh resistor 
